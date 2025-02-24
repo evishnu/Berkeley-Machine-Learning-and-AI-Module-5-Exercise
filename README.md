@@ -1,9 +1,8 @@
-# Berkeley-Module5: Jupyter Notebook for Module 5 Exercise
-
-# Coupon Acceptance Analysis for coupon value "Bar" and "Restuarant"
+# Assignment 5.1: Will the Customer Accept the Coupon?
 
 ## Overview
-This analysis focuses on exploring the differences between customers who accepted and rejected coupons within the "Food Coupons" group. By employing descriptive statistics and visualizations, key insights were derived regarding customer behavior and feature distributions.
+This analysis focuses on exploring the differences between customers who accepted and rejected coupons for Bar and Restaurants from given dataset coupons.csv 
+By employing descriptive statistics and visualizations, key insights were derived regarding customer behavior and feature distributions.
 
 ## Key Findings
 - **Acceptance Rate:** The overall coupon acceptance rate in the "Food Coupons" group is approximately X% (replace with actual figure).
@@ -23,4 +22,4 @@ This analysis focuses on exploring the differences between customers who accepte
 4. **Continuous Improvement:** Regularly update the analysis as new data becomes available to ensure the strategies remain effective.
 
 ## Usage
-- The accompanying Jupyter Notebook contains the full EDA with clearly formatted sections, visualizations, and commentary.
+- The accompanying Jupyter Notebook contains the full EDA with clearly formatted sections, visualizations, and running commentary.
