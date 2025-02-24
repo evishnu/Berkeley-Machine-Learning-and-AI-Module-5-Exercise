@@ -22,6 +22,5 @@ This analysis focuses on exploring the differences between customers who accepte
 
 ## Usage
 - The accompanying Jupyter Notebook contains the full EDA with clearly formatted sections, visualizations, and commentary.
-- Ensure that all required libraries (pandas, numpy, seaborn, matplotlib) are installed before running the notebook.
-- Modify the coupon group filter and column names as necessary to match your dataset.
+
 
