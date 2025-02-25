@@ -9,12 +9,12 @@ By employing descriptive statistics and visualizations, key insights were derive
 - **Categorical Insights:** Differences in categorical features (e.g., age and customer segment) were observed, indicating that certain subgroups are more likely to accept coupons.
 - **Continuous Variables:** Significant differences in distributions of features such as age and income were noted between accepted and rejected groups.
 - **Correlations:** Some continuous features exhibit strong correlations, suggesting potential areas for further feature engineering.
+### Conclusion: There is a statistically significant association between coupon type and coupon usage 
 
 ***Some Stats:***
 Total observations: 12684
 Number of accepted coupons: 7210
 Proportion of observations that accepted the coupon: 56.84%
-
 Total Bar Coupons: 2017
 Number of Accepted Bar Coupons: 827
 Proportion of Bar Coupons Accepted: 41.00%
